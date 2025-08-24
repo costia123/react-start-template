@@ -1,5 +1,3 @@
-
-
 const initialState = {
     strapiPage: null,
     strapiLogo: null,
